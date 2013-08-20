@@ -27,7 +27,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SharonHodgsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -59,7 +59,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "naomi_long",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -163,7 +163,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "J_Donaldson_MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -227,7 +227,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "tomgreatrexmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -275,7 +275,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "adriansandersmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -355,7 +355,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PhilWilsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -403,7 +403,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MichaelMcCannMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -419,7 +419,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MingCampbellMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -434,8 +434,8 @@
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_url": "http://robertabwmp.wordpress.com/",
+                "mp_twitter": "robertabwMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -465,9 +465,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "jane.ellison.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "janeellisonmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -579,7 +579,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "FionaODonnellMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -675,7 +675,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AnneMiltonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -707,7 +707,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "karen__bradley",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -739,7 +739,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IanCLucas",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -771,7 +771,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "cathyjamieson",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -795,7 +795,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RichardBenyonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -971,7 +971,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GWilliamsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1001,9 +1001,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "thomas.docherty.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Thomas_Docherty",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1155,7 +1155,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "HelenGoodmanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1187,7 +1187,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "greggmcclymont",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1203,7 +1203,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "StewartHosieMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1267,7 +1267,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GraemeMorrice",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1283,7 +1283,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "DAlexanderMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1331,7 +1331,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "mark4ceredigion",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1363,7 +1363,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AnasSarwar",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1379,7 +1379,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GlynDaviesMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1395,7 +1395,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AndrewBridgenMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1523,7 +1523,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "WayneDavidMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1555,7 +1555,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "CherylGillanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1651,7 +1651,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JimSheridanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1683,7 +1683,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AnneMcGuireMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1699,7 +1699,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "ACunninghamMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1715,7 +1715,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "ChrisPincher",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1746,8 +1746,8 @@
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_url": "http://www.chestermp.com",
+                "mp_twitter": "mp4chester",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1763,7 +1763,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AnnMcKechinMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1827,7 +1827,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IrrancaDaviesMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1843,7 +1843,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PeteWishart",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -1891,7 +1891,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GeraintDaviesMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2019,7 +2019,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MichaelDugherMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2067,7 +2067,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "CarolineFlintMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2131,7 +2131,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IanDavidsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2211,7 +2211,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Andrew4Pendle",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2299,7 +2299,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GregBarkerMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2363,7 +2363,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "DrPhillipLeeMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2499,7 +2499,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "kwasikwarteng",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2547,7 +2547,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JohnPenroseNews",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2563,7 +2563,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Anna_SoubryMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2643,7 +2643,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Jeremy_Hunt",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2683,7 +2683,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "David_Cameron",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2891,7 +2891,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "madeleinemoon",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -2907,7 +2907,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "DavidHansonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3051,7 +3051,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MRitchieMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3083,7 +3083,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JohnRobertsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3163,7 +3163,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Conor_BurnsMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3194,8 +3194,8 @@
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_url": "http://www.jennywillott.co.uk",
+                "mp_twitter": "JennyWillott",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3259,7 +3259,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "marklazarowicz",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3275,7 +3275,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "William_Bain",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3403,7 +3403,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "ShabanaMahmood",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3515,7 +3515,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "ChrisLeslieMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3547,7 +3547,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "LauraSandysMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3627,7 +3627,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GBirtwistle_MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3691,7 +3691,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "CrockartMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3755,7 +3755,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "OwenSmithMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3795,7 +3795,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "WilliamJHague",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3811,7 +3811,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "NicDakinMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3867,7 +3867,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "annebegg",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3882,8 +3882,8 @@
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_url": "http://stephenwilliams.org.uk",
+                "mp_twitter": "swilliamsmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3898,8 +3898,8 @@
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_url": "http://www.johnstevensonmp.co.uk",
+                "mp_twitter": "JohnStevensonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3931,7 +3931,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "conormurphymp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -3947,7 +3947,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AliSeabeckMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4331,7 +4331,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "carolinenokes",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4411,7 +4411,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "gregclarkmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4483,7 +4483,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JohnHealey_MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4515,7 +4515,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GloriaDePieroMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4675,7 +4675,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "leicesterliz",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4691,7 +4691,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Freeman_George",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4913,9 +4913,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "jacksonsj@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SJacksonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4931,7 +4931,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "nadhimzahawi",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -4995,7 +4995,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JackDromeyMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5011,7 +5011,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "agriffithsmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5123,7 +5123,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "lisanandy",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5203,7 +5203,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AVMitchell2010",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5217,9 +5217,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "graham.jones.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GrahamJones_MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5339,7 +5339,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "geraldhowarth",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5483,7 +5483,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Adrian_Bailey",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5499,7 +5499,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RichardBurdenMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5627,7 +5627,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AidanBurleyMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5691,7 +5691,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "TomBlenkinsop",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5723,7 +5723,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "TristramHuntMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5755,7 +5755,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "KeeleyMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5771,7 +5771,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JohnMannMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5833,9 +5833,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "valerie.vaz.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Valerie_VazMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -5945,9 +5945,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "james.morris.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JamesMorrisMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6059,7 +6059,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GavinBarwellMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6227,7 +6227,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "charles_kennedy",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6243,7 +6243,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JakeBerryMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6275,7 +6275,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "angelaeagle",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6387,7 +6387,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JamesDuddridge",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6411,7 +6411,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AlanDuncanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6427,7 +6427,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RobFlelloMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6507,7 +6507,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "bernardjenkin",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6523,7 +6523,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Annette4MDNP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6595,7 +6595,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "BSheermanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6627,7 +6627,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JTomlinsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6699,7 +6699,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "johnhemmingmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6763,7 +6763,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "cj_dinenage",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6809,7 +6809,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SimonWrightMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6889,7 +6889,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "DavidNuttallMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6905,7 +6905,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IvanLewis_MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6953,7 +6953,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "EmilyThornberry",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -6969,7 +6969,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "andyburnhammp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7017,7 +7017,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "KarenBuckMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7113,7 +7113,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JulieHillingMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7191,9 +7191,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "corbynj@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "jeremycorbyn",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7239,9 +7239,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "help@grahamevansmp.com",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GrahamEvansMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7251,21 +7251,51 @@
                 "person_id": "22650",
                 "name": "Jonathan Evans",
                 "party": "Conservative",
-                "constituency": "Cardiff North"
+                "constituency": "Cardiff North",
+                "aristotle_id": "",
+                "aristotle_constituency_id": "",
+                "aristotle_constitutency_url": "",
+                "mp_email": "",
+                "mp_url": "http://www.jonathanevans.org.uk",
+                "mp_twitter": "JonathanEvansMP",
+                "mp_university": "",
+                "mp_school": "",
+                "majority": ""
+
             },
             {
                 "member_id": "40353",
                 "person_id": "10669",
                 "name": "Hilary Benn",
                 "party": "Labour",
-                "constituency": "Leeds Central"
+                "constituency": "Leeds Central",
+                "aristotle_id": "",
+                "aristotle_constituency_id": "",
+                "aristotle_constitutency_url": "",
+                "mp_email": "",
+                "mp_url": "",
+                "mp_twitter": "hilarybennmp",
+                "mp_university": "",
+                "mp_school": "",
+                "majority": ""
+
             },
             {
                 "member_id": "40564",
                 "person_id": "10630",
                 "name": "Alan Whitehead",
                 "party": "Labour",
-                "constituency": "Southampton, Test"
+                "constituency": "Southampton, Test",
+                "aristotle_id": "",
+                "aristotle_constituency_id": "",
+                "aristotle_constitutency_url": "",
+                "mp_email": "",
+                "mp_url": "",
+                "mp_twitter": "alanwhiteheadmp",
+                "mp_university": "",
+                "mp_school": "",
+                "majority": ""
+
             },
             {
                 "member_id": "40666",
@@ -7294,7 +7324,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "pauluppalmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7308,9 +7338,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "clive.betts.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "CliveBettsMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7342,7 +7372,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "johnredwood",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7374,7 +7404,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SMcPartlandMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7390,7 +7420,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "mike_weatherley",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7406,7 +7436,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "marycreagh_mp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7470,7 +7500,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AlecShelbrooke",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7484,9 +7514,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "maria.eagle.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "meaglemp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7534,7 +7564,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JoJohnsonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7598,7 +7628,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "KateGreenSU",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7644,9 +7674,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "oliver.colvile.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "olivercolvile",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7678,7 +7708,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PhilipDaviesMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7694,7 +7724,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SimonKirbyMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7822,7 +7852,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RichardDraxMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7836,9 +7866,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "peter.aldous.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "peter_aldous",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7910,7 +7940,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "BillEstersonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7926,7 +7956,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MegMunnMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -7998,7 +8028,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MarkSpencerMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8014,7 +8044,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "rosie4westlancs",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8046,7 +8076,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "NigelDoddsMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8078,7 +8108,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "margarethodge",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8094,7 +8124,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "nickherbertmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8134,7 +8164,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RogerGodsiff",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8150,7 +8180,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MaryMacleod4MP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8214,7 +8244,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GregHands",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8246,7 +8276,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "claire4devizes",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8286,7 +8316,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SteveBarclayMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8302,7 +8332,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PatGlassMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8398,7 +8428,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GarethThomasMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8414,7 +8444,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "jon_trickett",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8620,7 +8650,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PeterJLuff",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8668,7 +8698,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "michaelmeacher",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8732,7 +8762,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "jameswhartonmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8748,7 +8778,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "BillCashMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8836,7 +8866,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SimonHughesMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8907,7 +8937,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "timloughton",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8923,7 +8953,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "mikefreermp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -8987,7 +9017,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "SteveRotheramMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9019,7 +9049,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "YvetteCooperMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9075,7 +9105,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "acarmichaelmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9091,7 +9121,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "angelasmithmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9123,7 +9153,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "robwilsonmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9147,7 +9177,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "nickhurdmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9235,7 +9265,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "tessamunt",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9267,7 +9297,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PaulBlomfieldMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9315,7 +9345,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "PBottomleyMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9329,9 +9359,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
-                "mp_url": "",
-                "mp_twitter": "",
+                "mp_email": "david@davidward.org.uk",
+                "mp_url": "http://davidward.org.uk",
+                "mp_twitter": "DavidWardMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9457,9 +9487,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "iain.stewart.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "iainastewart",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9507,7 +9537,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "CliveEfford",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9603,7 +9633,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MarkLancasterMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9619,7 +9649,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "johnleechmcr",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9651,7 +9681,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "AngieBrayMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9667,7 +9697,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "glendajacksonmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9715,7 +9745,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "heidi_mp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9763,7 +9793,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "stephenctimms",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9779,7 +9809,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "HendonMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9859,7 +9889,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JBrokenshire",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9907,7 +9937,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "BarryGardiner",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -9969,9 +9999,9 @@
                 "aristotle_id": "",
                 "aristotle_constituency_id": "",
                 "aristotle_constitutency_url": "",
-                "mp_email": "",
+                "mp_email": "rushanara.ali.mp@parliament.uk",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "rushanaraali",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10067,7 +10097,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "ChloeSmithMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10115,7 +10145,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "jreedmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10131,7 +10161,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JDjanogly",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10211,7 +10241,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "GuyOppermanMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10227,7 +10257,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IanLaveryMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10259,7 +10289,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "HackneyAbbott",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10275,7 +10305,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "RoryStewartUK",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10291,7 +10321,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "gildernewmp",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10307,7 +10337,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Meg_HillierMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10355,7 +10385,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "MPDavidMorris",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10371,7 +10401,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "IanAustinMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10403,7 +10433,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Geoffrey_Cox",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10435,7 +10465,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "Debbie_abrahams",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10451,7 +10481,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "DanJarvisMP",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
@@ -10467,7 +10497,7 @@
                 "aristotle_constitutency_url": "",
                 "mp_email": "",
                 "mp_url": "",
-                "mp_twitter": "",
+                "mp_twitter": "JonAshworth",
                 "mp_university": "",
                 "mp_school": "",
                 "majority": ""
